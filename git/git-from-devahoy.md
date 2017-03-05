@@ -76,7 +76,7 @@
 
 ## Branch
 
-### git branch : โชว์ list ของ branch ทั้งหมด
+`git branch` : โชว์ list ของ branch ทั้งหมด
 
 `git branch BRANCH_NAME` : สร้าง branch ใหม่
 
@@ -91,6 +91,7 @@
 [TOP^](#toc)
 
 ## Undo
+
 `git reset --hard HEAD` : reset local repo
 
 `git reset COMMIT` : ทำการ undo ทุกๆอย่างกลับไปที่ COMMIT ก่อนหน้า
@@ -102,6 +103,7 @@
 [TOP^](#toc)
 
 ## Remove
+
 `git rm FILENAME` : ทำการลบไฟล์ และให้ git ทำการ untracked ไฟล์ด้วย
 
 `git rm --cached FILENAME` : ลบไฟล์ออกจาก git repo เฉยๆ ไม่ได้ลบใน directory
@@ -109,6 +111,7 @@
 [TOP^](#toc)
 
 ## Sync
+
 `git fetch` : เช็คการเปลี่ยนแปลงจาก remote repo
 
 `git merge` : ทำการรวมการเปลี่ยนแปลงจาก remote มาที่ local repo
