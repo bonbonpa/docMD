@@ -3,32 +3,48 @@ All Document and Reference .md
 
 ## TOC
 
+### Goal
+
+- [Goal](/Goal)
+
 ### Stack Booking Technology
 
 - [Stack Booking](/stackbooing/README.md)
 
 ### Javascript
 
-- [JS Glossary Codecademy](/javascript/JS-Glossary-Codecademy.md)
-- [Javascript Codecademy](/javascript/JS-JavaScript-Codecademy.md)
+- [Javascript](/javascript)
 
 #### React
 
+- [React](/react)
+
 #### Vue
+
+- [Vue](/vue)
 
 ### dotNET
 
+- [dotNET](/dotNET)
+
 ### Git
+
+- [Git](/git)
 
 ### PHP
 
+- [PHP](/php)
+
 #### Laravel
+
+- [Laravel](/laravel)
 
 ### Linux Bash
 
+- [Linux Bash](/bashlinux)
+
 ### Server
 
-#### c9 config
+- [Server](/server)
 
-- [c9 install laravel and config](/server/c9-laravel-install.md)
-- [c9 phpmyadmin setting](/server/c9-phpmyadmin-setting.md)
+~ c9 , Heroku
