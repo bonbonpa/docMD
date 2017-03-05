@@ -54,7 +54,7 @@ All Document and Reference .md
 
 ### Linux Bash
 
-- [Linux Bash](/bashlinux)
+- [Linux Bash](/bashLinux)
 
 ### Server
 

@@ -1,5 +1,3 @@
-
-
 ## [Blog Post]()
 
 - http://pen.io/
