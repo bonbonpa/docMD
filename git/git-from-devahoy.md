@@ -22,11 +22,15 @@
 
 `git config --global color.ui auto` : ตั้ง enable สีใน command line
 
+[TOP^](#toc)
+
 ## Create Repo
 
 `git init` : ทำการสร้าง local repo (ระบบจะสร้างโฟลเดอร์ .git ไว้ใน directory
 
 `git clone URL` : ทำการ clone repo จาก Server (Github/Bitbucket) มาที่ local
+
+[TOP^](#toc)
 
 ## Local Repo
 
@@ -50,6 +54,8 @@
 
 `git commit --amend` : เอาไว้แก้ไข commit ล่าสุด เช่น อยากเพิ่มไฟล์ที่หลัง หลังจาก commit แล้ว (รายละเอียดเพิ่มเติม : แก้ไข git commit ล่าสุด)
 
+[TOP^](#toc)
+
 ## Remote Repo
 
 `git push origin master` : ทำการ push โปรเจ็คไป remote repository (origin ชื่อ remote name, master คือชื่อ default ของ branch)
@@ -66,6 +72,8 @@
 
 `git remote rm REMOTE_NAME` : ลบ remote repository
 
+[TOP^](#toc)
+
 ## Branch
 
 ### git branch : โชว์ list ของ branch ทั้งหมด
@@ -80,6 +88,7 @@
 
 `git merge BRANCH_NAME` : ทำการรวม history ของ branch
 
+[TOP^](#toc)
 
 ## Undo
 `git reset --hard HEAD` : reset local repo
@@ -90,10 +99,14 @@
 
 `git revert` : ทำการ undo แล้วสร้าง commit ใหม่ (ต่างกับ reset ตรงที่ reset จะย้อนไป commit เก่า แต่ revert จะสร้าง commit ใหม่)
 
+[TOP^](#toc)
+
 ## Remove
 `git rm FILENAME` : ทำการลบไฟล์ และให้ git ทำการ untracked ไฟล์ด้วย
 
 `git rm --cached FILENAME` : ลบไฟล์ออกจาก git repo เฉยๆ ไม่ได้ลบใน directory
+
+[TOP^](#toc)
 
 ## Sync
 `git fetch` : เช็คการเปลี่ยนแปลงจาก remote repo
@@ -106,11 +119,15 @@
 
 `git rebase` : เหมือนกับ git merge แต่จะยุบ branch ที่แตกออกมารวมกับ branch หลักเลย
 
+[TOP^](#toc)
+
 ## Generate SSH
 
 `ssh-keygen -t rsa -C "devahoy@gmail.com"` : ทำการ generate SSH Key ไฟล์จะถูก gen ไว้ที่ ~/.ssh/id_rsa
 
 `ssh -T git@github.com` : ทดสอบ test SSH ว่า OK หรือไม่
+
+[TOP^](#toc)
 
 Additional Resoures :
 
