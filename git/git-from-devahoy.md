@@ -6,7 +6,6 @@
   * [Local Repo](#local-repo)
   * [Remote Repo](#remote-repo)
   * [Branch](#branch)
-    + [git branch : โชว์ list ของ branch ทั้งหมด](#git-branch--------list-----branch--------)
   * [Undo](#undo)
   * [Remove](#remove)
   * [Sync](#sync)
