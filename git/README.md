@@ -5,11 +5,11 @@
 
 ### TH
 
-- [Git Cheat Sheet from devahoy](/git-from-devahoy.md)
+- [Git Cheat Sheet from devahoy](/git/git-from-devahoy.md)
 
 ### EN
 
-- [Git know how](/git-knowhow.md)
+- [Git know how](/git/git-knowhow.md)
 
 
 ## Aticle link site
