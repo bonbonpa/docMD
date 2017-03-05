@@ -5,7 +5,7 @@
   * [Create Repo](#create-repo)
   * [Local Repo](#local-repo)
   * [Remote Repo](#remote-repo)
-  * [Branch](#branch)
+  * [Branches](#branches)
   * [Undo](#undo)
   * [Remove](#remove)
   * [Sync](#sync)
@@ -73,7 +73,7 @@
 
 [TOP^](#toc)
 
-## Branch
+## Branches
 
 `git branch` : โชว์ list ของ branch ทั้งหมด
 
