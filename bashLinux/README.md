@@ -8,13 +8,13 @@
 
 ### EN
 
-- [Glossary of commonly used commands](/bashlinux/bash-commandLine-codecademy.md)
+- [Glossary of commonly used commands](/bashLinux/bash-commandLine-codecademy.md)
 
 
 ## Aticle link site
 
-- [Article Linux](/MDArticle.md)
+- [Article Linux](/bashLinux/MDArticle.md)
 
 ## Booking Code
 
-- [Code Booking](/BC.md)
+- [Code Booking](/bashLinux/BC.md)
