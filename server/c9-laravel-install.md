@@ -39,23 +39,16 @@ $ use c9;
 
 ```
 
-
-
-
-
-
-
 select @@hostname;
 
 exit
 
+```
 DB\_HOST=localhost
-
 DB\_DATABASE=c9
-
-DB\_USERNAME=isphins
-
+DB\_USERNAME='name'
 DB\_PASSWORD=
+```
 
 install laravel
 
