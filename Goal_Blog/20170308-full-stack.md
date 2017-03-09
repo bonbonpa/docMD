@@ -13,8 +13,7 @@ Full Stack
 - Angular
 - Design Pattern
 - Git
-- Linux
-- HTML5
+- Linux- HTML5
 - CSS3
 - jQuery
 - MongoDB
@@ -24,3 +23,5 @@ Full Stack
 - Chai ~ don't touch
 - .NET MVC and .NET Core
 - Hapi
+
+test
